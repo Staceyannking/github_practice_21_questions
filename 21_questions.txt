@@ -7,7 +7,7 @@ HOST   (the one with the secret):  __Staceyann__________________
 DATE:                              __0-03-26__________________
 
 
-SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [ ] Animal
+SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ x ] Thing  [ ] Animal
 
 
 ------------------------------------------
